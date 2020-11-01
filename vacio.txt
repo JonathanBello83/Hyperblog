@@ -1,0 +1,40 @@
+
+*************    Comandos en Git Bash    ******************
+
+cd .. Permite ir al archivo raiz (es importante el espacio)
+
+pwd: Muestra el directorio (ruta)donde estamos parados
+
+ls: Muestra las carpetas o archivos del directorio donde estamos parados
+
+ls -al: Muestra archivos ocultos
+
+mkdir: Permite crear una carpeta ej: mkdir proyecto
+
+touch: Permite crear un archivo con su respectiva extension Ej: touch Claves.txt
+
+cat: Permite ver el contenido del archivo si es plano Ej: cat Claves.txt
+
+history: Muestra una lista con todos los commandos usados, cada uno esta numerado en el
+         orden que se ejecutó, si queremos reutilizar alguno de ellos debemos digitar el 
+         el simbolo ! + número de orden ej: !25
+
+rm: eliminar archivo(tener cuidado puede eliminar el disco duro, siempre confirmar donde
+    estamos parados). Ej: rm prueba.txt
+
+--help: Seescribe a la derecha de cualquier comando y nos muestra una ayuda Ej: rm --help
+
+
+************    Comandos git    ********************
+
+git init:
+
+git add:
+
+git rm:
+
+commit -m:
+
+
+
+
